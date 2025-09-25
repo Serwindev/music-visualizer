@@ -6,7 +6,7 @@ This visualizes the audio file provided by changing the radius of a circle, draw
 
 ## 🎥 Demo
 
-![Demo video of Music visualizer](./assets/demo.gif)
+![Demo video of Music visualizer](./assets/demo.gif) \
 *(Music visualizer running in the browser)*
 
 ---
